@@ -1,0 +1,1 @@
+# nuxt-vuetify-jwt-starter
