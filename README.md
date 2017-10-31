@@ -1,1 +1,1 @@
-# nuxt-vuetify-jwt-starter
+# nuxt-apollo-vuetify-starter
